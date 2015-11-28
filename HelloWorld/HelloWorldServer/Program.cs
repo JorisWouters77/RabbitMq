@@ -7,7 +7,7 @@ namespace HelloWorld
     /// <summary>
     ///     RabbitMq test
     /// 
-    ///     This console application will send messages from console to the message queue.
+    ///     This console application will send messages typed into the console to the message queue.
     /// </summary>
     class Program
     {
