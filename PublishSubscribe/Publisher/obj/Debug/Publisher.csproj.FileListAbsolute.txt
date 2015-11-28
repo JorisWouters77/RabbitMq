@@ -1,0 +1,2 @@
+C:\Development\RabbitMq\PublishSubscribe\PublishSubscribe\bin\Debug\PublishSubscribe.exe.config
+C:\Development\RabbitMq\PublishSubscribe\Publisher\bin\Debug\PublishSubscribe.exe.config

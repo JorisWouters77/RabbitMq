@@ -1,17 +1,13 @@
 ﻿using RabbitMQ.Client;
-using RabbitMQ.Client.Events;
 using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace HelloWorld
 {
     /// <summary>
     ///     RabbitMq test
     /// 
-    ///     This console application will send messages from console to the message queue.
+    ///     This console application will send messages typed into the console to the message queue.
     /// </summary>
     class Program
     {
