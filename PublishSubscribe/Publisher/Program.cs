@@ -10,6 +10,7 @@ namespace Publisher
     {
         static void Main(string[] args)
         {
+            throw new NotImplementedException("Not yet implemented...");
         }
     }
 }
