@@ -1,0 +1,1 @@
+C:\Development\RabbitMq\1.HelloWorld\1.HelloWorld\bin\Debug\1.HelloWorld.exe.config

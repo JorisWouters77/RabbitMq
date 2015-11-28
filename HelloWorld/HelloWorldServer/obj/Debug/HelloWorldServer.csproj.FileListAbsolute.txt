@@ -1,0 +1,16 @@
+C:\Development\RabbitMq\1.HelloWorld\1.HelloWorld\bin\Debug\1.HelloWorld.exe.config
+C:\Development\RabbitMq\1.HelloWorld\1.HelloWorld\bin\Debug\1.HelloWorld.exe
+C:\Development\RabbitMq\1.HelloWorld\1.HelloWorld\bin\Debug\1.HelloWorld.pdb
+C:\Development\RabbitMq\1.HelloWorld\1.HelloWorld\bin\Debug\RabbitMQ.Client.dll
+C:\Development\RabbitMq\1.HelloWorld\1.HelloWorld\bin\Debug\RabbitMQ.Client.xml
+C:\Development\RabbitMq\1.HelloWorld\1.HelloWorld\obj\Debug\HelloWorldServer.csprojResolveAssemblyReference.cache
+C:\Development\RabbitMq\1.HelloWorld\1.HelloWorld\obj\Debug\1.HelloWorld.exe
+C:\Development\RabbitMq\1.HelloWorld\1.HelloWorld\obj\Debug\1.HelloWorld.pdb
+C:\Development\RabbitMq\HelloWorld\HelloWorldServer\bin\Debug\1.HelloWorld.exe.config
+C:\Development\RabbitMq\HelloWorld\HelloWorldServer\bin\Debug\1.HelloWorld.exe
+C:\Development\RabbitMq\HelloWorld\HelloWorldServer\bin\Debug\1.HelloWorld.pdb
+C:\Development\RabbitMq\HelloWorld\HelloWorldServer\bin\Debug\RabbitMQ.Client.dll
+C:\Development\RabbitMq\HelloWorld\HelloWorldServer\bin\Debug\RabbitMQ.Client.xml
+C:\Development\RabbitMq\HelloWorld\HelloWorldServer\obj\Debug\HelloWorldServer.csprojResolveAssemblyReference.cache
+C:\Development\RabbitMq\HelloWorld\HelloWorldServer\obj\Debug\1.HelloWorld.exe
+C:\Development\RabbitMq\HelloWorld\HelloWorldServer\obj\Debug\1.HelloWorld.pdb
