@@ -1,8 +1,0 @@
-C:\Development\RabbitMq\TaskDispatcher\Worker\bin\Debug\Worker.exe.config
-C:\Development\RabbitMq\TaskDispatcher\Worker\bin\Debug\Worker.exe
-C:\Development\RabbitMq\TaskDispatcher\Worker\bin\Debug\Worker.pdb
-C:\Development\RabbitMq\TaskDispatcher\Worker\bin\Debug\RabbitMQ.Client.dll
-C:\Development\RabbitMq\TaskDispatcher\Worker\bin\Debug\RabbitMQ.Client.xml
-C:\Development\RabbitMq\TaskDispatcher\Worker\obj\Debug\Worker.csprojResolveAssemblyReference.cache
-C:\Development\RabbitMq\TaskDispatcher\Worker\obj\Debug\Worker.exe
-C:\Development\RabbitMq\TaskDispatcher\Worker\obj\Debug\Worker.pdb

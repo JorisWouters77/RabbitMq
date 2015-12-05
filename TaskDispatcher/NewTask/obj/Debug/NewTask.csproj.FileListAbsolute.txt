@@ -1,7 +1,0 @@
-C:\Development\RabbitMq\TaskDispatcher\TaskDispatcher\bin\Debug\TaskDispatcher.exe.config
-C:\Development\RabbitMq\TaskDispatcher\TaskDispatcher\bin\Debug\TaskDispatcher.exe
-C:\Development\RabbitMq\TaskDispatcher\TaskDispatcher\bin\Debug\TaskDispatcher.pdb
-C:\Development\RabbitMq\TaskDispatcher\TaskDispatcher\bin\Debug\RabbitMQ.Client.dll
-C:\Development\RabbitMq\TaskDispatcher\TaskDispatcher\bin\Debug\RabbitMQ.Client.xml
-C:\Development\RabbitMq\TaskDispatcher\TaskDispatcher\obj\Debug\TaskDispatcher.exe
-C:\Development\RabbitMq\TaskDispatcher\TaskDispatcher\obj\Debug\TaskDispatcher.pdb
